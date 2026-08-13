@@ -1,0 +1,15 @@
+# 编译生成产物
+*.exe
+*.out
+*.o
+
+# VS Code 工作缓存
+.vscode/
+*.log
+
+# Windows系统垃圾文件
+Thumbs.db
+.DS_Store
+
+# 程序生成的数据文件
+student_data.txt
